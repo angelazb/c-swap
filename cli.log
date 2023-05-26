@@ -1,0 +1,122 @@
+Building with Runestone 6.6.2
+---> runestone.build
+git describe --long
+fatal: No names found, cannot describe anything.
+
+Building into  ./build/c-swap
+mkdir_p path('././build/c-swap')
+mkdir_p path('./build/c-swap')
+mkdir_p path('././build/c-swap/doctrees')
+sphinx-build -b html -d ././build/c-swap/doctrees -c . -a -E -Acourse_id=c-swap -Alogin_required=true -Aappname=runestone -Aloglevel=10 -Acourse_url=http://localhost:80 -Ause_services=true -Apython3=true -Adburl=postgresql://runestone@localhost/runestone -Abasecourse=c-swap -Adynamic_pages=True -Adownloads_enabled=false -Aenable_chatcodes=false -Aallow_pairs=false -Abuild_info=unknown ./_sources ./build/c-swap
+Running Sphinx v5.3.0
+Connecting to DB
+No custom CSS files
+No custom js files
+building [mo]: all of 0 po files
+building [html]: all source files
+updating environment: [new config] 6 added, 0 changed, 0 removed
+Resetting questions
+reading sources... [ 16%] index
+reading sources... [ 33%] ps-intro
+reading sources... [ 50%] ps-parsons
+reading sources... [ 66%] ps-post
+reading sources... [ 83%] ps-postsurvey
+reading sources... [100%] ps-presurvey
+
+looking for now-outdated files... none found
+pickling environment... done
+checking consistency... done
+preparing documents... done
+writing output... [ 16%] index
+writing output... [ 33%] ps-intro
+writing output... [ 50%] ps-parsons
+writing output... [ 66%] ps-post
+writing output... [ 83%] ps-postsurvey
+writing output... [100%] ps-presurvey
+
+generating indices... genindex done
+writing additional pages... search done
+copying static files... done
+copying extra files... done
+dumping search index in English (code: en)... done
+dumping object inventory... done
+Deleteing Chapter / Subchapter info for c-swap
+Warning - always use build --all to ensure chapter info is consistent!
+Committing changes
+build succeeded, 7 warnings.
+
+The HTML pages are in build/c-swap.
+Done, build successful
+python-swap : 
+BUILD time is 2023-05-26 13:37:00.326453
+Updating library
+
+====
+WARNING: while setting up extension runestone.lp: role 'docname' is already registered, it will be overridden
+WARNING: html_static_path entry '_static' does not exist
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-intro.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-parsons.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-post.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-postsurvey.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-presurvey.rst: WARNING: document isn't included in any toctree
+Building with Runestone 6.6.2
+---> runestone.build
+git describe --long
+fatal: No names found, cannot describe anything.
+
+Building into  ./build/c-swap
+mkdir_p path('././build/c-swap')
+mkdir_p path('./build/c-swap')
+mkdir_p path('././build/c-swap/doctrees')
+sphinx-build -b html -d ././build/c-swap/doctrees -c . -a -E -Acourse_id=c-swap -Alogin_required=true -Aappname=runestone -Aloglevel=10 -Acourse_url=http://localhost:80 -Ause_services=true -Apython3=true -Adburl=postgresql://runestone@localhost/runestone -Abasecourse=c-swap -Adynamic_pages=True -Adownloads_enabled=false -Aenable_chatcodes=false -Aallow_pairs=false -Abuild_info=unknown ./_sources ./build/c-swap
+Running Sphinx v5.3.0
+Connecting to DB
+No custom CSS files
+No custom js files
+building [mo]: all of 0 po files
+building [html]: all source files
+updating environment: [new config] 6 added, 0 changed, 0 removed
+Resetting questions
+reading sources... [ 16%] index
+reading sources... [ 33%] ps-intro
+reading sources... [ 50%] ps-parsons
+reading sources... [ 66%] ps-post
+reading sources... [ 83%] ps-postsurvey
+reading sources... [100%] ps-presurvey
+
+looking for now-outdated files... none found
+pickling environment... done
+checking consistency... done
+preparing documents... done
+writing output... [ 16%] index
+writing output... [ 33%] ps-intro
+writing output... [ 50%] ps-parsons
+writing output... [ 66%] ps-post
+writing output... [ 83%] ps-postsurvey
+writing output... [100%] ps-presurvey
+
+generating indices... genindex done
+writing additional pages... search done
+copying static files... done
+copying extra files... done
+dumping search index in English (code: en)... done
+dumping object inventory... done
+Deleteing Chapter / Subchapter info for c-swap
+Warning - always use build --all to ensure chapter info is consistent!
+Committing changes
+build succeeded, 7 warnings.
+
+The HTML pages are in build/c-swap.
+Done, build successful
+python-swap : 
+BUILD time is 2023-05-26 13:37:00.326453
+Updating library
+
+====
+WARNING: while setting up extension runestone.lp: role 'docname' is already registered, it will be overridden
+WARNING: html_static_path entry '_static' does not exist
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-intro.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-parsons.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-post.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-postsurvey.rst: WARNING: document isn't included in any toctree
+/srv/web2py/applications/runestone/books/c-swap/_sources/ps-presurvey.rst: WARNING: document isn't included in any toctree
